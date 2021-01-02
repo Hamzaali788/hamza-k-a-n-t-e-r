@@ -1887,6 +1887,10 @@ form textarea::placeholder{
 
     }
 
+    form input{
+        width: 100%;
+    }
+
 }
 
 @media (max-width:425px){
