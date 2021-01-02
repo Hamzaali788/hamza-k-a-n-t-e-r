@@ -1843,6 +1843,11 @@ form textarea::placeholder{
         right: 0;
         top: 14px;
     }
+
+    form input{
+        width: 100%;
+    }
+
 }
 
 @media (max-width:768px){
